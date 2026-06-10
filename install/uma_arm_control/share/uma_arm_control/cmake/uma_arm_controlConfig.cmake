@@ -1,0 +1,1 @@
+/home/ruben/ros/amp_rob_ws/src/uma_arm_control/build/uma_arm_control/ament_cmake_core/uma_arm_controlConfig.cmake
